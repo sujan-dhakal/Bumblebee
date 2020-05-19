@@ -7,10 +7,12 @@
   
 The data included in the Github is produced via simulation using predictive mathematical models (bimodal distribution). (Real data is not included.)
 
-### Sensor Gate
+### Sensor Board
 
 <img src="images/sensor.png" width=250>
 
+  • A bee enters into the hive via Gate 1.
+  • A bee exits out of the hive via Gate 5. 
 
   
   
