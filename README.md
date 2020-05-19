@@ -7,6 +7,10 @@
   
 The data included in the Github is produced via simulation using predictive mathematical models (bimodal distribution). (Real data is not included.)
 
+### Sensor Gate
+
+<img src="images/sensor.png" width=250>
+
 
   
   
