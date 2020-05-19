@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>538</width>
+    <height>481</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>440</y>
+     <width>111</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </widget>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>521</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <property name="acceptDrops">
+    <bool>true</bool>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="plainText">
+    <string>                                    Welcome to the Bumblebee System  
+Creators:
+Ben Chaplin              
+Sorawit Roongruengratanakul
+Sujan Dhakal 
+Utsav Shrestha
+
+Use Cases:
+
+1) Tracking live data: Shows number of exits and entries of bees from each hive in the last minute. Refreshes every 20 seconds.The level of activity can be estimated using sounds as well. 
+
+2) Historical Data: You can assess historical data of activities of any particular day or multiple days for any hive.
+
+Instruction to the user: 
+
+Since this is simulation, data needs to be loaded into the database by running process_messages with various txt files which hold simulated UDP messages.Single day data uses the data for June 2, 2019, which is an arbitrary date we chose for single day. Put in multiple day data for multiple hives to see the historical data in full glory.
+
+We recommend using our build which has data from April 1 to April 15.</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

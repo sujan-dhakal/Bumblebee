@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>Bee-noise_2.mp3</file>
+        <file>Bee-noise_3.mp3</file>
+        <file>Bee-noise_4.mp3</file>
+        <file>Bee-noise_5.mp3</file>
+        <file>03-512.png</file>
+        <file>calendar.png</file>
+        <file>images_cropped-translogik-wifi-symbol-469989.png</file>
+        <file>timer_clock_time_vector_symbol-512.png</file>
+        <file>bar-chart-md.png</file>
+        <file>speaker_bold_convert-512.png</file>
+        <file>small_calendar.png</file>
+        <file>small_timer_clock_time_vector_symbol-512.png</file>
+        <file>small_images_cropped-translogik-wifi-symbol-469989.png</file>
+        <file>bee1.png</file>
+    </qresource>
+</RCC>
